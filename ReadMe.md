@@ -45,7 +45,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 
 
 ## CHARTS
-- [Bridge](https://github.com/Geomitron/Bridge/releases) / [Chorus](https://www.enchor.us/) | *Chorus is website that lets you upload custom charts to it. Bridge is its sister application that lets you download said charts more easily.*
+- [Bridge](https://github.com/Geomitron/Bridge/releases) / [Chorus](https://www.enchor.us/) | *Chorus is a website that lets you upload custom charts to it. Bridge is its sister application that lets you download said charts more easily.*
 - [Rhythmverse](https://rhythmverse.co/) | *Similar to Chorus, but this site is more of a hub for console customs instead of PC customs.*
 - [Commision Sheet](https://docs.google.com/spreadsheets/d/1B_JHc8FvpHqAYcCJKHSzTF-6yZE8wU_eeq2TDKszgl4/edit?gid=0#gid=0) | *Spreadsheet that links currently active charters who take commisions.*
 - [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413) | *Spreadsheet to download customs. Its mainly used for installing console charts for PC Clones.*
@@ -177,6 +177,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
