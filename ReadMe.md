@@ -117,7 +117,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 
 ## SOCIALS
 - [LoreHero](https://www.youtube.com/@LoreHeroPodcast) | *Podcast related to everything Rhythm Gaming. Hosts are Acai, aWiseMoose, JasonParadise, 760Creations.*
-- [Acai](https://www.youtube.com/@acai28) | *Argueably this communitys face and icon. He now works at [Red Octane Games](https://www.redoctane.games/) as and advisor.*
+- [Acai](https://www.youtube.com/@acai28) | *Argueably this communitys face and icon. He now works at [Red Octane Games](https://www.redoctane.games/) as an advisor.*
 - [aWiseMoose](https://www.youtube.com/@aWiseMoose) | *He is a moose... Some may even say a wise moose. He now works at [Red Octane Games](https://www.redoctane.games/) as the community represintive.* 
 - [JasonParadise](https://www.twitch.tv/jasonparadise) | *Jason is a content creator. He now works at [Red Octane Games](https://www.redoctane.games/) as a producer.*
 - [SoyaDesu](https://www.twitch.tv/soyadesu) | *Rock Band Gurl. Soya is an amazing content creator in the scene.*
@@ -177,6 +177,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
