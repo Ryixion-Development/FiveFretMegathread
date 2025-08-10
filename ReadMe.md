@@ -76,7 +76,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [Riffmaster](https://pdp.com/collections/riffmaster-wireless-guitar-controller) | *The best Rock Band guitar you can currently get.*
 - [CRKD](https://crkd.gg/) | *New Guitar Hero controller! Better than then Riffmaster in many ways.*
 - [Blue Indigo Adapter](https://www.etsy.com/listing/1397089947/blue-indigo-v4-playstation-2-guitar) | *Playstation 2 hardware adapter.*
-- [*Partyboi](https://www.theprintingparty.com/) | *Sells custom parts. Site is currently down for personal reason. Please do not harass Partyboi to sell printed parts.*
+- [*Partyboi](https://www.theprintingparty.com/) | *Sells custom parts. Site is currently down for personal reasons. Please do not harass Partyboi to sell printed parts.*
 - [KatanaMods](https://www.etsy.com/shop/KatanaMods) | *Use to sell modded guitars. Now only sells silicone pads.*
 - [Hammer On Guitars](https://www.hammeronguitars.com/) | *Sells fully 3D printed guitars.*
 
@@ -177,6 +177,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
