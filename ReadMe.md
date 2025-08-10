@@ -83,7 +83,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 
 ## EMULATORS
 - [PCSX2](https://pcsx2.net/) | *Playstation 2 Emulator. Good for Guitar Hero 1, 2 and 80's.*
-- [RPCS3](https://rpcs3.net/) | *Playstation 3 Emulator. Good for Guitar Hero 3 through Warriors of Rock.*
+- [RPCS3](https://rpcs3.net/) | *Playstation 3 Emulator. Good for Guitar Hero 3 through Warriors of Rock & Rock Band 1 through Rock Band 3.*
 - [Xenia](https://xenia.jp/) | *Xbox 360 emulator. The motherboard xenia emulators is NOT good for these games. Use [RPCS3](https://rpcs3.net/) instead.*
 - [Dolphin](https://dolphin-emu.org/) | *Wii Emulator. Not the best experience, but is strong in performance.*
 - [ShadPS4](https://github.com/shadps4-emu/shadPS4) | *PS4 Emulator. Do not use this version for Rock Band 4.*
@@ -177,6 +177,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
