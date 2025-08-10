@@ -32,7 +32,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [ArbysHasTheMeats](https://drive.google.com/drive/folders/1Qwatkm31zYjssPR9ey9CwauWSk7uQVJq) | *Downloads for official games from Activision and Harmonix.*
 - [Clone Hero](https://clonehero.net) | *Guitar Hero PC/Linux/Mac Clone. It has a android port, but no touch controls.*
 - [YARG (Yet Another Rhythm Game)](https://yarg.in) | *Rock Band PC/Linux/Mac Clone.*
-- [*Encore](https://github.com/Encore-Developers/Encore) | *Fortnite Festival PC Clone.*
+- [*Encore](https://github.com/Encore-Developers/Encore) | *Fortnite Festival PC Clone. Its still a work in progress.*
 - [Fret Smasher](https://store.steampowered.com/app/1420420/Fret_Smasher/) | *Guitar Hero PC Clone on Steam.*
 - [Frets on Fire](https://fretsonfire.sourceforge.net/) | *Outdated PC Clone. Link is here for archive purposes.*
 
@@ -177,6 +177,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
