@@ -21,7 +21,7 @@ The primary megathread for Rhythm Games! If you would like to contribute, Contac
 
 
 ## LATEST NEWS
-Red Octane is back under Red Octane Games with the goal of creating a brand new official title!
+RedOctane is back under RedOctane Games with the goal of creating a brand new official title!
 [Learn More Here](https://www.redoctane.games/)
 
 The CRKD Guitar is in public hands and so far people have been loving it! There are some issues here and there, but overall the community loves the new guitar.
@@ -70,7 +70,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 
 
 ## HARDWARE
-- [760Creations](https://www.760creations.com/) | *Use to sell full guitars, now mainly sells replacement parts. Currently working at [Red Octane Games](https://www.redoctane.games/) as the charts suporvisor.* 
+- [760Creations](https://www.760creations.com/) | *Use to sell full guitars, now mainly sells replacement parts. Currently working at [RedOctane Games](https://www.redoctane.games/) as the charts suporvisor.* 
 - [PhunkyCustoms](https://www.phunkycustoms.com/) | *Sells drop in replacement kits, internal parts, fully custom guitars.*
 - [RetroCultMods](https://shop.retrocultmods.com/) | *Sells adapters, drop in kits, iternal parts.*
 - [Riffmaster](https://pdp.com/collections/riffmaster-wireless-guitar-controller) | *The best Rock Band guitar you can currently get.*
@@ -117,9 +117,9 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 
 ## SOCIALS
 - [LoreHero](https://www.youtube.com/@LoreHeroPodcast) | *Podcast related to everything Rhythm Gaming. Hosts are Acai, aWiseMoose, JasonParadise, 760Creations.*
-- [Acai](https://www.youtube.com/@acai28) | *Argueably this communitys face and icon. He now works at [Red Octane Games](https://www.redoctane.games/) as an advisor.*
+- [Acai](https://www.youtube.com/@acai28) | *Argueably this communitys face and icon. He now works at [RedOctane Games](https://www.redoctane.games/) as an advisor.*
 - [aWiseMoose](https://www.youtube.com/@aWiseMoose) | *He is a moose... Some may even say a wise moose. He now works at [Red Octane Games](https://www.redoctane.games/) as the community represintive.* 
-- [JasonParadise](https://www.twitch.tv/jasonparadise) | *Jason is a content creator. He now works at [Red Octane Games](https://www.redoctane.games/) as a producer.*
+- [JasonParadise](https://www.twitch.tv/jasonparadise) | *Jason is a content creator. He now works at [RedOctane Games](https://www.redoctane.games/) as a producer.*
 - [SoyaDesu](https://www.twitch.tv/soyadesu) | *Rock Band Gurl. Soya is an amazing content creator in the scene.*
 - [Darkai](https://www.twitch.tv/darkaivt) | *Darkai is another amazing content creator.*
 - [Lexegon](https://www.twitch.tv/lexegon) | *Lexegon dont play the games much in terms of guitar, but sings on yarg often.*
@@ -151,11 +151,11 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 * [Small Charters United](https://discord.gg/rrdBXNZrgv)
 * [Yet Another Rhythm Game](https://discord.com/invite/sqpu4R552r)
 * [Customs Community](https://discord.gg/ksAbkQDJ7H)
-* [Red Octane Games](https://discord.gg/2DkspRcV)
+* [RedOctane Games](https://discord.gg/2DkspRcV)
 
 
 ## WEBSITES
-- [Red Octane Games](https://www.redoctane.games/) | *Red Octane is back under Red Octane Games with the goal of creating a brand new official title!*
+- [RedOctane Games](https://www.redoctane.games/) | *RedOctane is back under RedOctane Games with the goal of creating a brand new official title!*
 - [Score Hero (Guitar Hero)](https://www.scorehero.com/) | *Scoreboards and Forums for Guitar Hero*
 - [Score Hero (Rock Band)](https://rockband.scorehero.com/) | *Scoreboards and Forums for Rock Band*
 
@@ -177,6 +177,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
