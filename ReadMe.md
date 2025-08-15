@@ -50,6 +50,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [Commision Sheet](https://docs.google.com/spreadsheets/d/1B_JHc8FvpHqAYcCJKHSzTF-6yZE8wU_eeq2TDKszgl4/edit?gid=0#gid=0) | *Spreadsheet that links currently active charters who take commisions.*
 - [Clone Hero Spreadsheet](https://docs.google.com/spreadsheets/d/13B823ukxdVMocowo1s5XnT3tzciOfruhUVePENKc01o/edit?gid=1870223413#gid=1870223413) | *Spreadsheet to download customs. Its mainly used for installing console charts for PC Clones.*
 - [Fortnite Festival Charts](https://github.com/FEStoRB/FNFestivaltoRB/) | *Rips of Festival charts ported to Rock Band 2. These will NOT work in Clone Hero, But do nativily work in [YARG](https://yarg.in/). To convert them use [Onyx](https://github.com/mtolly/onyx/releases).*
+- [Full Album Spreadsheet](https://docs.google.com/spreadsheets/d/13Uv6qJ1DTnkpq9V_LgEjwPfMGmlqLGWSLnoQUh0OFSA/edit?gid=473351256#gid=473351256) *_A spreadsheet full of full album chart and miscellaneous long charts_
 - [LaneBreakers](https://www.youtube.com/watch?v=jJLg7XB93Fg) | *Rock Band 3 customs pack. Includes native PC ports for Clone Hero.*
 - [Meme Charts](https://drive.google.com/drive/folders/12EFOWuthnQ66wcJyLkxH9KSGIDPdQbAf?usp=sharing) | *These are random meme charts. If you think a song should be added to it, contact 'symphomatica' on [Discord](https://discord.com/).*
 - [Console DLC](https://docs.google.com/spreadsheets/d/1-3lo2ASxM-3yVr_JH14F7-Lc1v2_FcS5Rv_yDCANEmk/edit?pli=1&gid=0#gid=0) | *Official DLC downloads for console games.*
