@@ -168,6 +168,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 
 
 ## TUTORIALS
+- [Acais Guitar Buying Guide](https://youtu.be/YudkMhOIU_8)
 - [Rock Band 4 on PC](https://www.youtube.com/watch?v=uHzjSMM6A8I)
 - [Guitar Hero 3 Deluxe on PC](https://www.youtube.com/watch?v=B6QhZ5OGrDE)
 - [Guitar on RPCS3](https://www.youtube.com/watch?v=GfUOb1l86fQ)
@@ -178,6 +179,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
