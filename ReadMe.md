@@ -23,11 +23,9 @@ The primary megathread for Rhythm Games! If you would like to contribute, Contac
 
 
 ## LATEST NEWS
-RedOctane is back under RedOctane Games with the goal of creating a brand new official title!
-[Learn More Here](https://www.redoctane.games/)
+New CRKD Guitar Bundle released as 'The Collectors Bundle'. It features a new look to the guitar based off the Cherry Sunburst Les Paul! Check it out [here!](https://crkd.gg/products/lp-cherry-sunburst-multi-platform-collectors-bundle)
 
-The CRKD Guitar is in public hands and so far people have been loving it! There are some issues here and there, but overall the community loves the new guitar.
-[Purchase One Here](https://crkd.gg/)
+New Guitar Hero 3 PC mod released known as BetterGH3! Watch the trailer and download the mod [here!](https://youtu.be/RWRoxHwAM9E)
 
 
 ## GAMES
@@ -59,10 +57,12 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [Rock Band 4 PC Charts](https://drive.google.com/drive/folders/16zy6DazemvIsSi6i1D7xv4zI-lQdBmph) | *Rock Band 4 charts converted to PC.*
 
 
-## QUALITY OF LIFE
+## QUALITY OF LIFE / PATCHES
 - [Guitar Hero II Deluxe](https://github.com/hmxmilohax/Amplitude-2016-Deluxe#readme) | *Guitar Hero 2 Deluxe mod. Adds quality of life improvements.*
 - [Guitar Hero III Deluxe](https://github.com/nsneverhax/guitar-hero-3-deluxe#readme) | *Guitar Hero 3 Deluxe mod. Adds quality of life improvements.*
 - [Guitar Hero III+](https://drive.google.com/drive/folders/1UNnDSeiN4zZDu5Xp0ZPfesJSnesd9ZOn) | *Old Guitar Hero 3 mod. Used to add Open Notes, Tap Notes, and Hopo Chords to Guitar Hero 3. It can be used with Guitar Hero 3 Deluxe.*
+- Better Guitar Hero III PC | *Brand new Guitar Hero 3 mod. Fixes a bunch of GH3PC issues.*
+- [Better Guitar Hero III](https://drive.google.com/drive/folders/1gJgm-GjJ70KZ3hVzlDR8e8AQy_Y8D9RU) | *BetterGH3 fixes all of the GH3PC bugs / issues.*
 - [*Warriors of Rock+](https://github.com/kernaltrap8/WoR-Plus) | *Developer left the project behind but they want to return. Its still very much a Work in Progress.*
 - [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/) | *Its like a Deluxe mod but for Guitar Hero: World Tour (PC), However it is NOT a Deluxe mod. It contains different developers, Different visions.*
 - [Rock Band 2 Deluxe](https://rb2dx.milohax.org) | *Rock Band 2 Deluxe mod. Adds quality of life improvements.*
@@ -181,6 +181,7 @@ The CRKD Guitar is in public hands and so far people have been loving it! There 
 - [0-10 Charting Difficulty Guide](https://docs.google.com/document/d/1Yj0vfvroBsVNCvLCuBoSCLCwKT9sZUH6ELnTwjsjYr0/edit?tab=t.0#heading=h.9ems82oir8ny)
 - [Star Power Charting Guide](https://docs.google.com/document/d/1bvAJk8B87tRogVhDjgGGHNzso4IP2b55uptIiRBEJA0/edit?tab=t.0)
 - [YourDustyGuitar's Charting Guides](https://www.youtube.com/playlist?list=PLKRMjhBxVwV60uQRSIgs30WeZW4-AyBF4)
+
 
 
 
